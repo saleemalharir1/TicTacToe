@@ -8,7 +8,7 @@ This game requires Python 3.x and the `art` module to be installed. You can inst
 
 ```bash
 pip install art
-
+```
 
 ## How to Play
 

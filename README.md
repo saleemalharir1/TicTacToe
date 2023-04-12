@@ -12,7 +12,11 @@ pip install art
 
 ## How to Play
 
-To start the game, run the `play_game()` function in the command line. The game will display a 3x3 grid with empty cells represented by blank spaces. Player 1 will be X and Player 2 will be O.
+To start the game, run
+```bash
+python TicTacToe.py
+```
+The game will display a 3x3 grid with empty cells represented by blank spaces. Player 1 will be X and Player 2 will be O.
 
 On their turn, players will be prompted to choose a row and column to place their marker. Players must input numbers between 0 and 2 to choose a valid cell. If the chosen cell is already taken, the player will be prompted to choose again.
 

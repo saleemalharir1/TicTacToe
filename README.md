@@ -5,9 +5,10 @@ This is a simple command line version of the classic game Tic Tac Toe, written i
 ## Requirements
 
 This game requires Python 3.x and the `art` module to be installed. You can install `art` using pip:
-'''
+
+```bash
 pip install art
-'''
+
 
 ## How to Play
 
